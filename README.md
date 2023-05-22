@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+    <samp>
+    Data Science & Particle Physics
+    <br>
+    PhD graduate @ University of Oxford 
+    </samp>
+</p>
 
-<!--
-**fcelli/fcelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img alt="[Python]" src="https://img.shields.io/badge/-Python-ffda4d?style=flat&logo=Python">
+    <img alt="[C]" src="https://img.shields.io/badge/-C%2B%2B%20-blue">
+    <img alt="[Shell]" src="https://img.shields.io/badge/-Shells-4EAA25?style=flat&logo=gnubash&logoColor=white"><br>
+    <img alt="[Git]" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+    <img alt="[Linux]" src="https://img.shields.io/badge/-LIN-FCC624?style=flat&logo=linux&logoColor=black">
+</p>
