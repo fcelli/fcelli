@@ -1,8 +1,8 @@
 <p align="center">
     <samp>
-    Data Science & Particle Physics
+    Data Scientist at Faculty AI
     <br>
-    PhD graduate @ University of Oxford 
+    PhD in Particle Physics, University of Oxford 
     </samp>
 </p>
 
